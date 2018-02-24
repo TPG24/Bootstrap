@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: auto;
+    color: #777777;
+    background: url('./icons/vintage-concrete/vintage-concrete.png');
+    min-height: 1500px;
+
+}
+
+.container {
+    padding: 5px;
+}
+
+h2 {
+    margin-left: 5px;
+}
+
+#bs-example-navbar-collapse-1 {
+    width: 400px;
+    float: right;
+    text-align: center;
+    font-size: 18px;
+    padding: 5px 15px;
+}
+
+
+.panel-body li img {
+    width: 80px;
+}
+
+li {
+    list-style-type: none;
+}
+ .panel-footer {
+     text-align: center;
+     border-top: 6px solid #4aaaa5;
+     padding: 40px;
+     position: fixed;
+     bottom: 0;
+     width: 100%;
+     color: black;
+ }
+
+ .navbar-header {
+     padding: 5px 15px;
+     margin: auto;
+
+ }
+
+ .portfolio-item {
+     text-align: center;
+ }
+
